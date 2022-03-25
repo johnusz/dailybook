@@ -6,6 +6,8 @@ DailyBook is a app designed not only to be a todo/notes app, but your universal 
 
 It utilises Flutter, in combination of technologies like Bloc, REST API (OpenWeatherMap API), HTTP and Hive Database.
 
+Soon available on App Store and Play Store.
+
 ## Install
 
 Download this repository and copy it to a folder of your choosing.
