@@ -9,7 +9,7 @@ It utilises Flutter, in combination of technologies like Bloc, REST API (OpenWea
 ## Install
 
 > Download this repository and copy it to a folder of your choosing.
-Then run ```flutter pub get``` to get all repositories.
+> Then run ```flutter pub get``` to get all repositories.
 
 ## Credits
 > Special thanks for Jordan Singer (https://lil.software) for providing lil news API.
