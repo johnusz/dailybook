@@ -1,8 +1,8 @@
 # DailyBook
 
-## Not just a typical todo/notes app of yours 
+## Personal time management and notes with fresh brew of news
 
-DailyBook is a app designed not only to be a todo/notes app, but your universal planner for your activies and staying up to date with surronding world.
+DailyBook is a app designed not only to be a todo/notes app, but your universal planner for your activies and staying up to date with the hottest news on the block.
 
 It utilises Flutter, in combination of technologies like Bloc, REST API (OpenWeatherMap API), HTTP and Hive Database.
 
